@@ -17,6 +17,10 @@
 	border-bottom: 1px solid rgba($black,.10);
 }
 
+.excerpt img{
+	padding-top: 10px;
+}
+
 /* feature image */
 
 .entry-feature-image {
@@ -349,7 +353,8 @@ span + .entry-title {
 }
 
 #post .site-logo img { width: 150px; height: 150px; border-radius: 150px;}
-#post .entry-content img { width: 48%; margin: 0 auto;
+#post .entry-content img { width: 50%; margin: 0 auto;
     display: block;}
 .split-img{ float: left; padding: 5px;}
+#post .entry-content em{ display:block; text-align:center;}
 #exerpt img{ padding-top: 10px;}
