@@ -3,7 +3,7 @@
   
     {
       "title"			: "Arrival",
-      "link"			: "http://paperpanties.com//blog/arrival/",
+      "link"			: "http://paperpanties.com/blog/arrival/",
       "excerpt"		: "We set out from Sacramento at a reasonable hour in the morning. All in all, a pretty boring drive to Phoenix."
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Let's do this. Prep and First Day.",
-      "link"			: "http://paperpanties.com//blog/day1/",
+      "link"			: "http://paperpanties.com/blog/day1/",
       "excerpt"		: "My interest in natural disasters started at a fairly early age, though I’ve been lucky enough not to endure one yet…"
     }
   
@@ -31,7 +31,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://paperpanties.com//theme-setup/",
+      "link"			: "http://paperpanties.com/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -39,7 +39,7 @@
   
     ,{
       "title"			: "About the Jekyll Theme",
-      "link"			: "http://paperpanties.com//about/",
+      "link"			: "http://paperpanties.com/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
