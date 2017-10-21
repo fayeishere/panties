@@ -2,8 +2,16 @@
 
   
     {
+      "title"			: "The Work: Mucking and Gutting",
+      "link"			: "http://paperpanties.com/blog/work/",
+      "excerpt"		: "Back to work! So far I haven’t talked much about the dirty side of volunteering, mucking and gutting. I’d been in the South for a week and had only gotten dirty my first day. That was about to change."
+    }
+  
+
+  
+    ,{
       "title"			: "Irma",
-      "link"			: "http://localhost:4000/blog/irma/",
+      "link"			: "http://paperpanties.com/blog/irma/",
       "excerpt"		: "During this time we’d been keeping an eye on Hurricane Irma and what that meant for the organization. We’d been given brief updates in the meetings, but mostly couldn’t do anything until we knew the damage."
     }
   
@@ -11,7 +19,7 @@
   
     ,{
       "title"			: "Hallowed Grounds",
-      "link"			: "http://localhost:4000/blog/hallowed/",
+      "link"			: "http://paperpanties.com/blog/hallowed/",
       "excerpt"		: "I awake at 6 am to someone who thought that it would be better to pack up in the morning. I find my eye mask quickly. I was scheduled with an unusual task…"
     }
   
@@ -19,7 +27,7 @@
   
     ,{
       "title"			: "Arrival",
-      "link"			: "http://localhost:4000/blog/arrival/",
+      "link"			: "http://paperpanties.com/blog/arrival/",
       "excerpt"		: "We set out from Sacramento at a reasonable hour in the morning. All in all, a pretty boring drive to Phoenix."
     }
   
@@ -27,7 +35,7 @@
   
     ,{
       "title"			: "Let's do this. Prep and First Day.",
-      "link"			: "http://localhost:4000/blog/day1/",
+      "link"			: "http://paperpanties.com/blog/day1/",
       "excerpt"		: "My interest in natural disasters started at a fairly early age, though I’ve been lucky enough not to endure one yet…"
     }
   
@@ -47,7 +55,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
+      "link"			: "http://paperpanties.com/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -55,7 +63,7 @@
   
     ,{
       "title"			: "About the Jekyll Theme",
-      "link"			: "http://localhost:4000/about/",
+      "link"			: "http://paperpanties.com/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
