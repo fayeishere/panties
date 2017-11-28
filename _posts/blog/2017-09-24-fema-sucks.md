@@ -41,9 +41,9 @@ The next day my team lead makes some headway with the owners. She has a frustrat
 
 Honestly, I know this isn't a "just this time" type of problem. But, I also don't know how to bring it up to family and friends that we live in this seriously biased world and needs aggressive pushback if we ever want to see any change in the world.
 
-Even with this frustration, we had a smaller and super effective team and we finished gutting the house the best we could.
-
 ![Our team photo]({{ site.baseurl }}/images/routine-group.jpg )*Team*
+
+Even with this frustration, we had a smaller and super effective team and we finished gutting the house the best we could.
 
 
 
