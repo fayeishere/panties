@@ -2,8 +2,16 @@
 
   
     {
+      "title"			: "FEMA Sucks.",
+      "link"			: "http://localhost:4000/blog/fema-sucks/",
+      "excerpt"		: "With clean clothes I was feeling good about the start of the new work week. We’d had time to become adjusted to our new base, and started to get a good routine going."
+    }
+  
+
+  
+    ,{
       "title"			: "The Work: Mucking and Gutting",
-      "link"			: "http://paperpanties.com/blog/work/",
+      "link"			: "http://localhost:4000/blog/work/",
       "excerpt"		: "Back to work! So far I haven’t talked much about the dirty side of volunteering, mucking and gutting. I’d been in the South for a week and had only gotten dirty my first day. That was about to change."
     }
   
@@ -11,7 +19,7 @@
   
     ,{
       "title"			: "Irma",
-      "link"			: "http://paperpanties.com/blog/irma/",
+      "link"			: "http://localhost:4000/blog/irma/",
       "excerpt"		: "During this time we’d been keeping an eye on Hurricane Irma and what that meant for the organization. We’d been given brief updates in the meetings, but mostly couldn’t do anything until we knew the damage."
     }
   
@@ -19,7 +27,7 @@
   
     ,{
       "title"			: "Hallowed Grounds",
-      "link"			: "http://paperpanties.com/blog/hallowed/",
+      "link"			: "http://localhost:4000/blog/hallowed/",
       "excerpt"		: "I awake at 6 am to someone who thought that it would be better to pack up in the morning. I find my eye mask quickly. I was scheduled with an unusual task…"
     }
   
@@ -27,7 +35,7 @@
   
     ,{
       "title"			: "Arrival",
-      "link"			: "http://paperpanties.com/blog/arrival/",
+      "link"			: "http://localhost:4000/blog/arrival/",
       "excerpt"		: "We set out from Sacramento at a reasonable hour in the morning. All in all, a pretty boring drive to Phoenix."
     }
   
@@ -35,7 +43,7 @@
   
     ,{
       "title"			: "Let's do this. Prep and First Day.",
-      "link"			: "http://paperpanties.com/blog/day1/",
+      "link"			: "http://localhost:4000/blog/day1/",
       "excerpt"		: "My interest in natural disasters started at a fairly early age, though I’ve been lucky enough not to endure one yet…"
     }
   
@@ -55,7 +63,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://paperpanties.com/theme-setup/",
+      "link"			: "http://localhost:4000/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -63,7 +71,7 @@
   
     ,{
       "title"			: "About the Jekyll Theme",
-      "link"			: "http://paperpanties.com/about/",
+      "link"			: "http://localhost:4000/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
